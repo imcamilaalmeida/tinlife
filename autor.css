@@ -1,0 +1,133 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Candara', sans-serif;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img.nome {
+    margin-top: -180px;
+    margin-bottom: -220px;
+}
+
+h2.sub {
+    margin-bottom: 50px;
+}
+
+nav.menu ul {
+    text-align: left;
+    list-style: none;
+    position: absolute;
+    top: -8px;
+    right: 25px;
+}
+
+nav.menu li {
+    padding: 5px;
+    margin-top: -20px;
+    margin-left: -30px;
+}
+
+img.logo {
+    width: 10%;
+    height: 10%;
+    margin-top: -30px;
+    margin-left: -25px;
+}
+
+img.int {
+    width: 3%;
+    height: 3%;
+    margin-top: -40px;
+    margin-left: 35px;
+}
+
+img.comp {
+    width: 4%;
+    height: 4%;
+    margin-top: 20px;
+    margin-left: 26px;
+}
+
+img.mais {
+    width: 4%;
+    height: 4%;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+nav#menu a {
+    color: #000;
+    text-decoration: none;
+}
+
+header.cabecalho {
+    height: 100px;
+}
+
+ul.tudo li {
+    display: inline-block;
+    margin-top: -40px;
+}
+
+div.software {
+    width: 400px;
+    margin-left: -500px;
+}
+
+figure.software {
+    position: relative;
+    border: 8px groove gray;
+}
+
+figure.software img {
+    width: 100%;
+    height: 100%;
+}
+
+div.web {
+    width: 400px;
+    margin-left: 0px;
+}
+
+figure.web {
+    position: relative;
+    border: 8px groove gray;
+}
+
+figure.web img {
+    width: 100%;
+    height: 100%;
+}
+
+div.bi {
+    width: 400px;
+    margin-left: 90px;
+    margin-right: -450px;
+}
+
+figure.bi {
+    position: relative;
+    border: 8px groove gray;
+}
+
+figure.bi img {
+    width: 100%;
+    height: 100%;
+}
+
+footer.rodape {
+    clear: both;
+    border-top: 1px solid white;
+    text-align: center;
+}
+
+h1.me {
+    margin-top: -25px;
+    margin-bottom: 30px;
+}

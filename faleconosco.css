@@ -1,0 +1,113 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Candara';
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img.nome {
+    margin-top: -180px;
+    margin-bottom: -220px;
+}
+
+h2.sub {
+    margin-bottom: 50px;
+}
+
+nav.menu ul {
+    text-align: left;
+    list-style: none;
+    position: absolute;
+    top: -8px;
+    right: 25px;
+}
+
+nav.menu li {
+    padding: 5px;
+    margin-top: -20px;
+    margin-left: -30px;
+}
+
+img.logo {
+    width: 10%;
+    height: 10%;
+    margin-top: -30px;
+    margin-left: -25px;
+}
+
+img.int {
+    width: 3%;
+    height: 3%;
+    margin-top: -40px;
+    margin-left: 35px;
+}
+
+img.comp {
+    width: 4%;
+    height: 4%;
+    margin-top: 20px;
+    margin-left: 26px;
+}
+
+img.mais {
+    width: 4%;
+    height: 4%;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+nav#menu a {
+    color: #000;
+    text-decoration: none;
+}
+
+header.cabecalho {
+    height: 100px;
+}
+
+form {
+    width: 500px;
+    margin: auto; /*centralizar*/
+}
+
+input, textarea {
+    font-family: sans-serif;
+    font-weight: normal; /* remover qualquer negrito que exista */
+    font-size: 13pt;
+    background-color: ;
+}
+
+input:hover, textarea:hover {
+    background-color: #ddd;
+}
+
+legend {
+    color: #888; /* texto cinza escuro */
+    font-weight: bolder; /* negritp */
+    font-size: 13pt;
+    font-family: sans-serif;
+}
+
+fieldset {
+    border-color: #cecece; /* cinza claro */
+    margin: 20px;
+}
+
+fieldset#idSexo {
+    width: 150px;
+}
+
+footer.rodape {
+    clear: both;
+    border-top: 1px solid white;
+    text-align: center;
+}
+
+button {
+    margin-bottom: 10px;
+}
