@@ -77,6 +77,7 @@ h3.sub {
 div.imagem {
     width: 40%;
     margin: auto 500px auto 500px;
+    text-align: center;
 }
 
 figure.software {
@@ -95,8 +96,7 @@ div.cont p {
 }
 
 video {
-    width: 400px;
-    height: 250px;
+    width: 40%;
 }
 
 footer.rodape {
