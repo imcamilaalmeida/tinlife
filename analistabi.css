@@ -1,3 +1,19 @@
+/* Estilos para dispositivos móveis */
+@media (max-width: 768px) {
+  .interface {
+    width: 100%;
+    /* Outras regras de estilo para dispositivos móveis */
+  }
+}
+
+/* Estilos para telas maiores */
+@media (min-width: 769px) {
+  .interface {
+    width: 50%;
+    /* Outras regras de estilo para telas maiores */
+  }
+}
+
 body {
     background-color: black;
     color: white;
@@ -35,28 +51,24 @@ nav.menu li {
 
 img.logo {
     width: 10%;
-    height: 10%;
     margin-top: -30px;
     margin-left: -25px;
 }
 
 img.int {
     width: 3%;
-    height: 3%;
     margin-top: -40px;
     margin-left: 35px;
 }
 
 img.comp {
     width: 4%;
-    height: 4%;
     margin-top: 20px;
     margin-left: 26px;
 }
 
 img.mais {
     width: 4%;
-    height: 4%;
     margin-top: 25px;
     margin-left: 25px;
 }
@@ -79,8 +91,9 @@ h3.sub {
 }
 
 div.imagem {
-    width: 800px;
+    width: 40%;
     margin: auto 500px auto 500px;
+    text-align: center;
 }
 
 figure.software {
@@ -99,8 +112,7 @@ div.cont p {
 }
 
 video {
-    width: 400px;
-    height: 250px;
+    width: 40%;
 }
 
 footer.rodape {
